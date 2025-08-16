@@ -2,6 +2,12 @@
 
 This project is a full-stack web application for tracking stock market data and managing a personal investment portfolio. It was developed to demonstrate proficiency in a modern, end-to-end tech stack, from a dynamic frontend to a robust, cloud-based backend.
 
+
+Engineered an end-to-end investment tracking application, demonstrating full-stack development expertise and cloud integration.
+Built a modular architecture with a Java Spring Boot backend, a React frontend, and a MySQL database on Google Cloud SQL.
+Implemented real-time data fetching by integrating the Alpha Vantage API for live stock prices and core financial data.
+
+Developed secure RESTful endpoints for user authentication, portfolio management, and data persistence, creating a complete and dynamic user experience.
 ---
 
 ## 🚀 Key Features
